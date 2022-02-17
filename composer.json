@@ -19,6 +19,20 @@
             "role": "Creator"
         }
     ],
+    "repositories": [
+        {
+            "type":"package",
+            "package": {
+                "name": "prebit/flysystem-backblaze",
+                "version":"master",
+                "source": {
+                    "url": "https://github.com/prebit/flysystem-backblaze.git",
+                    "type": "git",
+                    "reference":"master"
+                }
+            }
+        }
+    ],
     "require": {
         "php": "^8.0",
         "gliterd/backblaze-b2": ">=1.5.0",
