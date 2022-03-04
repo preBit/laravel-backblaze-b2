@@ -40,7 +40,7 @@
     },
     "autoload": {
         "psr-4": {
-            "MarcAndreAppel\\BackblazeB2\\": "src"
+            "MarcAndreAppel\\BackblazeB2\\": "vendor/prebit/laravel-backblaze-b2/src/"
         }
     },
     "autoload-dev": {
